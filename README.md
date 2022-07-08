@@ -23,6 +23,7 @@
     ▄▄▓████████████████▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀████████████████████▀▀▀▀
     ██████▀▀▀
      
-     
-     
-    
+
+Hi! I build software, mostly web applications. I also make music.
+
+Recently I joined [Myxt](https://myxt.com/), check us out if you're into music-making. [Also, we're hiring!](https://help.myxt.com/articles/team/eng-product-1/)
